@@ -1,0 +1,2 @@
+Proyecto de prueba para mostrar el funcionamiento de JQuery DataTable con servicios REST generados con Spring MVC.
+Para devolver la información al widget se utiliza el formato JSON.
