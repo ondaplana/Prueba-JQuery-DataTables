@@ -1,4 +1,4 @@
 Proyecto de prueba para mostrar el funcionamiento de JQuery DataTable con servicios REST generados con Spring MVC.
-Para devolver la informaci�n al widget se utiliza el formato JSON.
+Para devolver la información al widget se utiliza el formato JSON.
 
 Se puede ver un ejemplo: http://prueba-jquery-datatables.cloudfoundry.com
